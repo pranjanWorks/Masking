@@ -1,4 +1,4 @@
-Open the terminal project directory and type the below command to
+Open the terminal in the project directory and type the following command to
 activate the virtual environment.
 
 ```
